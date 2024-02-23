@@ -12,6 +12,7 @@ This is a Markdown to HTML Document Generator by [vite](https://github.com/vitej
 2. Edit markdown and generate html code as well as webpage
 3. Generate corresponding document menu
 
+![](https://github.com/nagasawalee/markdown-to-html-generator/blob/main/screenshot.png)
 ## Dependencies
 1. [Vite](https://github.com/vitejs/vite) environment
 2. [marked](https://github.com/markedjs/marked)、[highlightjs](https://highlightjs.org/)
